@@ -1,1 +1,1 @@
-It is a simple website created using HTML and CSS
+It is a simple GYM website created using HTML and CSS
